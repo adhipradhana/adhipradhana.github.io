@@ -1,13 +1,12 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+title:              Adhipradhana
+bio:                'Sulthan Adhipradhana personal website'
+description:        "Sulthan Adhipradhana personal website"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-background_image:   /images/bg.jpg
+url: "http://adhipradhana.me" # the base hostname & protocol for your site
+background_image:   /images/nepal.jpg
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
-formspree_thankyou_page: /thank-you
 
 defaults:
 - scope:
@@ -16,7 +15,7 @@ defaults:
   values:
     permalink: "/blog/:title/"
     layout: post
-    author:
+    author: Sulthan Adhipradhana
 
 # Jekyll
 permalink:          /blog/:title/
@@ -34,19 +33,18 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   default
+disqus_shortname:   adhipradhana
 
 # Social
-analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+analytics-id:       UA-132480158-1
+twitter:            musangkuy
+github:             adhipradhana
+linkedin:           adhipradhana
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+location:           Bandung, Indonesia
+phone:              62-8787-553-4556
+email:              adhi.pradana.pradana@gmail.com
 
 # Gems
 gems:
