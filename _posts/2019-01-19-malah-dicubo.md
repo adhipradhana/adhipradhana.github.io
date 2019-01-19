@@ -4,6 +4,7 @@ title:  "Food Test : Malah Dicubo"
 date:   2019-01-19
 excerpt: "Rumah Makan Padang yang bisa dibilang kayak surga di dunia (kalo kalian percaya surga tentunya)"
 image: "/images/malah-dicubo/malcub.jpg"
+comments: true
 ---
 ## Backstory
 Seinget gua, dulu kenal tempat ini dari beberapa anak LFM yang ceritain betapa enaknya malcub (Malah Dicubo). Seinget gua, pertama kali dateng kesini tuh pas gua SPARTA, kalo gasalah sama temen-temen waktu itu bosen di GMKI dan memutuskan mencoba ini. Awalnya kayak agak skeptis sih, nasi padang emangnya bisa seenak apa dah, perasaan rasanya cukup generik antara makanan padang. Ternyata gan, rasanya kayak surga di dunia, kalo kalian percaya sama surga ya, kalo ga percaya surga ya mungkin kayak ngerasain <a href="https://en.wikipedia.org/wiki/San_Junipero">San Junipero</a> kali. Sumpah, menurut gua ini masakan padang terenak dalam hidup gua. Lebih enak dibandingin sama Pagi Sore atau Sederhana. Mungkin emang gua kalo di Jakarta anaknya kurang main dan nyari makan, gua gapernah nyobain Natribu dan nasi padang lainnya. Terus setelah itu, jadi sering kesini sih kalo lagi pengen makan enak, apalagi setelah sering makan sama <a href="https://twitter.com/nicho_cholas"> Nicho</a>.
