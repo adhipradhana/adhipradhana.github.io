@@ -20,7 +20,7 @@ Namanya bukan nasi padang kalo gaada nasi. Kalo di gambar, mungkin ini kayak nas
 Tiap rumah makan padang kan biasanya punya menu spesialnya, kalo di malcub ya ini. Kalo diartiin ke Bahasa Indo, artinya dendeng lada hijau yang dipukul-pukul gitu pake batu cobek hingga lebar (arti batokok, dapet dari wikipedia pastinya hehe). Dendeng ini rasanya asin dan gurih juga. Dendeng ini disajiin pake minyak-minyak gitu (gua gatau pake minyak apaan) dan ada bawang-bawangnya juga. Menu ini yang paling wajib kalo kalian ke malcub ya.
 
 ## Kerupuk Kulit pake Kuah Gulai
-<span class="image right"><img src="{{ "/images/malah-dicubo/dendeng-batokok.jpg" | absolute_url }}" alt="" /></span> 
+<span class="image right"><img src="{{ "/images/malah-dicubo/kerupuk-gulai.jpg" | absolute_url }}" alt="" /></span> 
 Menu ini bisa dibilang kayak hidden gemnya. Dulu pertama kali tahu menu ini dari <a href="https://twitter.com/ChrisJooo">Kis</a>. Tapi ya sebenernya ga hidden gem banget sih. Kayak nama judulnya yang udah cukup deskriptif, kerupuk kulit sapi ini disiram sama kuah gulai. Jadinya kerupuknya yang biasanya renyah gitu jadi basah. Kalo digigit ya, dalemnya kayak kriuk-kriuk tapi luarnya basah. Dan rasanya mantep banget dah. Recommended pokoknya!
 
 ## Verdict
