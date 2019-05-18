@@ -20,7 +20,7 @@ Masala Tea adalah minuman khasnya Nepal. Bisa dibilang, ini kayak minuman nasion
 Ga spesial sih sebenernya, ini tuh cuma ikan goreng yang kayak di Indonesia. Ikan yang dipake gua lupa jenisnya apa. Mungkin yang agak beda, kalo di masakan sunda (yang hambar) kan disajiinnya pake sambal, kalo ini pake Chutney. Chutney tuh kalo disini kayak sambalnya gitu, sering dipake buat setiap jenis makanan. Rasanya ada asam dan pedes juga.
 
 ## Momo
-<div class="image right"><img src="{{ "/images/nepal-food/momo-twice.jpeg" | absolute_url }}" alt="" /></div> 
+<div class="image main"><img src="{{ "/images/nepal-food/momo-twice.jpeg" | absolute_url }}" alt="" /></div> 
 Kalo yang ini menurut gua spesial sih. Ciri khas banget. Jago dance lagi.
 <div class="image main"><img src="{{ "/images/nepal-food/momo.jpg" | absolute_url }}" alt="" /></div> 
 Kalo yang ini lebih spesial lagi hehe. Momo itu dumpling khas Nepal dan daerah sekitarnya (Asia Selatan). Bedanya Momo sama dumpling lainnya tuh daging yang digunain, biasanya dumpling kan pake daging ikan ya, kalo ini pake daging ayam, daging kerbau, dan sayuran. Selama gua di Nepal, gua paling suka makan ini sih, gua selalu beli ini di setiap kesempatan. Seperti biasa, saos yang digunain tuh pake Chutney. Mantap dah!
