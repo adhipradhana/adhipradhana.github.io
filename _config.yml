@@ -47,7 +47,7 @@ phone:              62-8787-553-4556
 email:              adhi.pradana.pradana@gmail.com
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-sitemap
   - jekyll-feed
